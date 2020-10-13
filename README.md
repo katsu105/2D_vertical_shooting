@@ -1,4 +1,4 @@
 # 2Dシューティングゲーム
 
-![](https://github.com/unity3d-jp-tutorials/2d-shooting-game/wiki/images/Home/top_thumb_intro.jpg)
+https://unityroom.com/games/2d_vertical_shooting
 
